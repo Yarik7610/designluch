@@ -103,7 +103,8 @@ a {
   .clients {
     margin-top: 150px;
     text-align: center;
-    p {
+    h3 {
+      font-size: 16px;
       font-weight: 600;
     }
     .clients__images {
